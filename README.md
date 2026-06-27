@@ -6,6 +6,6 @@ Três portas \
 Cada uma Possui uma porcentagem aleatória dentro. \
 \
 Principais conteúdos:\
-- Lista aninhada \
-- List Comprehension \
+- Lista aninhada 
+- List Comprehension 
 - Lógica probabilística em computação  
