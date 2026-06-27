@@ -1,2 +1,6 @@
-# LuckyDoor_game
-Jogo simples no terminal em python pra medir a sorte 
+# Jogo de sorte com Portas 🚪
+Código simples em python de jogo baseado puramente em sorte e porcentagem com chances aleatórias usando biblioteca 'Random'. 
+
+Três portas 
+🚪 🚪 🚪
+Cada uma Possui uma porcentagem aleatória dentro.
