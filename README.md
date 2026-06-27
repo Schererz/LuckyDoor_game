@@ -1,5 +1,5 @@
 # Jogo de sorte com Portas 🚪
-Código simples em python de jogo baseado puramente em sorte e porcentagem com chances aleatórias usando biblioteca ´Random´. 
+Código simples em python de jogo baseado puramente em sorte e porcentagem com chances aleatórias usando biblioteca `Random`. 
 
 Três portas 
 🚪 🚪 🚪
